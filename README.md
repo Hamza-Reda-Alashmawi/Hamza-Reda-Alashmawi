@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hamza Reda
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on Gmail
+- 📫 How to reach me on Gmail 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 
