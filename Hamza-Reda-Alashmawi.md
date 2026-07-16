@@ -12,7 +12,6 @@
 
 * **👀 Interested in:** Software Engineering, clean frontend architectures, and crafting responsive user interfaces.
 * **🌱 Currently learning:** **HTML, CSS, & Advanced JavaScript (ES6+)** to build interactive and dynamic web experiences.
-* **💼 Entrepreneurship:** Founder of **Codexor**, specializing in designing and building high-performance portfolio websites for clients.
 * **🎯 Goal:** To build seamless, pixel-perfect digital experiences on the web.
 
 ---
