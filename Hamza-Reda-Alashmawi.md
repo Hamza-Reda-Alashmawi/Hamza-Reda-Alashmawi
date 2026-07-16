@@ -30,7 +30,6 @@
 ### 📂 Featured Projects
 
 * **[my-way](./my-way)** - A dedicated repository tracking my complete 50+ hour journey into Web Development, featuring responsive designs and interactive JS logic.
-* **Codexor Web Portfolios** - Custom-crafted personal and business portfolios built with precision and modern UI aesthetics.
 
 ---
 
