@@ -177,31 +177,20 @@ A repository documenting my progress, experiments, and practical work while lear
 ---
 
 
+
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Hamza-Reda-Alashmawi&show_icons=true&theme=tokyonight&hide_border=true"
-    width="49%"
-    alt="GitHub Statistics"
-  />
+  <img src="./profile/stats.svg" width="49%" alt="GitHub Stats"/>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Reda-Alashmawi&layout=compact&theme=tokyonight&hide_border=true"
-    width="49%"
-    alt="Top Languages"
-  />
+  <img src="./profile/top-langs.svg" width="49%" alt="Top Languages"/>
 
   <br/><br/>
 
-  <img
-    src="https://streak-stats.demolab.com/?user=Hamza-Reda-Alashmawi&theme=tokyonight&hide_border=true"
-    width="70%"
-    alt="GitHub Streak"
-  />
+  <img src="./profile/streak.svg" width="70%" alt="GitHub Streak"/>
 
 </div>
 
@@ -211,15 +200,12 @@ A repository documenting my progress, experiments, and practical work while lear
 
 <div align="center">
 
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-Reda-Alashmawi&theme=tokyo-night&hide_border=true"
-    width="100%"
-    alt="Contribution Activity Graph"
-  />
+  <img src="./profile/stats.svg" width="85%" alt="GitHub Contribution Statistics"/>
 
 </div>
 
 ---
+
 
 
 ## 📫 Connect With Me
