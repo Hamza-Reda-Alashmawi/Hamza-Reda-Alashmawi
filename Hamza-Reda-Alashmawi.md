@@ -180,34 +180,6 @@ A repository documenting my progress, experiments, and practical work while lear
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-  <img src="./profile/stats.svg" width="49%" alt="GitHub Stats"/>
-
-  <img src="./profile/top-langs.svg" width="49%" alt="Top Languages"/>
-
-  <br/><br/>
-
-  <img src="./profile/streak.svg" width="70%" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-  <img src="./profile/stats.svg" width="85%" alt="GitHub Contribution Statistics"/>
-
-</div>
-
----
-
-
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -231,25 +203,5 @@ A repository documenting my progress, experiments, and practical work while lear
   <p>
     Great software is built through curiosity, consistency, and continuous improvement.
   </p>
-
-</div>
-
----
-
-<div align="center">
-
-  <h3>🐋 My GitHub Ocean</h3>
-
-  <a href="https://github.com/Hamza-Reda-Alashmawi/Hamza-Reda-Alashmawi/blob/main/README.md">
-    <img
-      src="https://raw.githubusercontent.com/Hamza-Reda-Alashmawi/Hamza-Reda-Alashmawi/output/tulkun/tulkun.gif"
-      width="640"
-      alt="Hamza's GitHub Tulkun"
-    />
-  </a>
-
-  <br/>
-
-  <sub>Thanks for visiting my profile! 🚀</sub>
 
 </div>
