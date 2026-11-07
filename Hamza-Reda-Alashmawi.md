@@ -1,151 +1,265 @@
-# 👋 Hi, I'm Hamza Reda!
 
-### 🚀 Aspiring Software Engineer | Full-Stack Developer | AI Enthusiast
+<!--
+  Hamza Reda | GitHub Profile README
+-->
 
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-000000?style=for-the-badge&logo=github&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full--Stack-Development-blue?style=for-the-badge)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
+<div align="center">
 
----
+  <h1>Hey, I'm Hamza Reda 👋</h1>
 
-### 🏛️ About Me
+  <h3>
+    Aspiring Software Engineer
+  </h3>
 
-- **👀 Interested in:** Software Engineering, Full-Stack Development, Artificial Intelligence, and building real-world software.
-- **🌱 Currently learning:** C, Python, JavaScript, TypeScript, React, Node.js, Express.js, PostgreSQL, and modern web technologies.
-- **💻 Focus:** Building scalable applications with clean code, modern architectures, and great user experiences.
-- **🎯 Goal:** To become a professional Software Engineer capable of building complete software products from frontend to backend and AI.
-- **🚀 Future:** Building my own technology products and continuously improving my engineering skills.
+  <p>
+    Full-Stack Development • Artificial Intelligence • Computer Science
+  </p>
 
----
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Learning+to+build+real-world+software;Exploring+Full-Stack+Development;Building+my+Computer+Science+foundation;Turning+ideas+into+code"
+    alt="Typing SVG"
+  />
 
-### 🛠️ Tech Stack & Tools
+  <br/>
 
-#### 💻 Programming Languages
+  <img src="https://komarev.com/ghpvc/?username=Hamza-Reda-Alashmawi&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  <br/><br/>
 
-#### 🎨 Frontend
+  <a href="https://github.com/Hamza-Reda-Alashmawi">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  <a href="https://github.com/Hamza-Reda-Alashmawi?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-0ea5e9?style=for-the-badge&logo=github" alt="Repositories"/>
+  </a>
 
-#### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-#### 🗄️ Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🧰 Version Control & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
 
 ---
 
-### 📚 Learning Journey
+## 👨‍💻 About Me
+
+I'm Hamza, an aspiring Software Engineer passionate about understanding how technology works and building useful software.
+
+- 💻 Interested in Software Engineering and Full-Stack Development.
+- 🤖 Exploring Artificial Intelligence and its real-world applications.
+- 📚 Building a strong foundation in Computer Science through CS50.
+- 🌱 Continuously learning programming languages, frameworks, and engineering concepts.
+- 🎯 Focused on writing clean, maintainable, and efficient code.
+- 🚀 Long-term goal: Build and launch my own technology products.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,js,ts" alt="Programming Languages"/>
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" alt="Frontend Technologies"/>
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres" alt="Backend Technologies"/>
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Development Tools"/>
+</p>
+
+---
+
+## 📚 Current Learning Journey
+
+My learning path is focused on building strong fundamentals before moving into advanced engineering topics.
 
 ```text
-CS50
-   ↓
-C & Programming Fundamentals
-   ↓
-Python
-   ↓
-JavaScript
-   ↓
-TypeScript
-   ↓
-HTML + CSS
-   ↓
-Tailwind CSS
-   ↓
-React
-   ↓
-Node.js
-   ↓
-Express.js
-   ↓
-PostgreSQL
-   ↓
-Full-Stack Development
-   ↓
-Artificial Intelligence
-🎯 Goals
-💻 Software Engineering
- Master Programming Fundamentals
- Learn Data Structures & Algorithms
- Improve Problem-Solving Skills
- Learn Object-Oriented Programming
- Learn Software Architecture
- Learn System Design
- Write Clean & Maintainable Code
- Build Scalable Applications
- Follow Software Engineering Best Practices
-🌐 Full-Stack Development
- Master HTML5
- Master CSS3
- Master JavaScript
- Master TypeScript
- Master React
- Master Tailwind CSS
- Master Node.js
- Master Express.js
- Master PostgreSQL
- Learn REST APIs
- Learn Authentication & Authorization
- Learn Backend Architecture
- Learn Database Design
- Learn Testing
- Learn Deployment & Cloud Technologies
- Build Production-Ready Applications
-🤖 Artificial Intelligence
- Master Python
- Learn AI Fundamentals
- Learn Mathematics for AI
- Learn Machine Learning
- Learn Deep Learning
- Learn Neural Networks
- Work with AI APIs
- Build AI-Powered Applications
- Integrate AI into Full-Stack Applications
- Build Intelligent Software Products
-🚀 Long-Term Goals
- Become a Professional Software Engineer
- Become a Strong Full-Stack Developer
- Become an AI Engineer
- Build Real-World Software Products
- Build Large-Scale Applications
- Create and Launch My Own Technology Products
- Work at a Leading Technology Company
- Continuously Learn and Improve
-📂 Featured Projects
-🌐 my-way
+Computer Science
+       │
+       ▼
+      CS50
+       │
+       ▼
+ Programming Fundamentals
+       │
+       ├── C
+       │
+       └── Python
+              │
+              ▼
+       Web Development
+              │
+       ┌──────┴──────┐
+       ▼             ▼
+     HTML           CSS
+       │             │
+       └──────┬──────┘
+              ▼
+          JavaScript
+              │
+              ▼
+          TypeScript
+              │
+              ▼
+            React
+              │
+              ▼
+          Node.js
+              │
+              ▼
+          Express.js
+              │
+              ▼
+          PostgreSQL
+              │
+              ▼
+       Full-Stack Projects
+              │
+              ▼
+     Artificial Intelligence
+```
 
-A dedicated repository tracking my complete journey into Web Development, featuring responsive designs, interactive JavaScript logic, and continuous learning.
+---
 
-🔗 View Repository
+## 🎯 Engineering Goals
 
-🤖 More Projects Coming Soon...
+**Software Engineering**
+- [ ] Master Data Structures & Algorithms.
+- [ ] Understand Object-Oriented Programming.
+- [ ] Learn Software Architecture.
+- [ ] Study System Design.
+- [ ] Build maintainable applications.
 
-I'm currently learning and building more projects to strengthen my Software Engineering, Full-Stack, and AI skills. 🚀
+**Full-Stack Development**
+- [ ] Master JavaScript and TypeScript.
+- [ ] Build applications with React.
+- [ ] Learn backend engineering with Node.js.
+- [ ] Understand databases and API design.
+- [ ] Build and deploy production-ready projects.
 
-📊 GitHub Stats
+**Artificial Intelligence**
+- [ ] Strengthen Python fundamentals.
+- [ ] Learn Mathematics for AI.
+- [ ] Study Machine Learning.
+- [ ] Explore Deep Learning and Neural Networks.
+- [ ] Build AI-powered applications.
 
-📫 Connect With Me
+---
 
-💻 GitHub: @Hamza-Reda-Alashmawi
+## 🚀 Featured Projects
 
-⚡ Fun Fact
+### 🌐 my-way
 
-"If you want to buy anything without looking at the PRICE, work without looking at the CLOCK." ⏱️💼
+My personal Web Development learning journey.
 
-🚀 Build. Learn. Improve. Repeat.
+A repository documenting my progress, experiments, and practical work while learning Web Development.
+
+**Focus:**
+- Responsive Web Design
+- HTML & CSS
+- JavaScript
+- Frontend Development
+
+<a href="https://github.com/Hamza-Reda-Alashmawi/my-way">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
+</a>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Hamza-Reda-Alashmawi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="165"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Reda-Alashmawi&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://streak-stats.demolab.com?user=Hamza-Reda-Alashmawi&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="GitHub Streak"
+  />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-Reda-Alashmawi&theme=tokyo-night&hide_border=true"
+    width="100%"
+    alt="Contribution Graph"
+  />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+  <a href="https://github.com/Hamza-Reda-Alashmawi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+</div>
+
+---
+
+## ⚡ A Thought I Believe In
+
+<div align="center">
+
+  <h3>
+    "Build. Learn. Improve. Repeat."
+  </h3>
+
+  <p>
+    Great software is built through curiosity, consistency, and continuous improvement.
+  </p>
+
+</div>
+
+---
+
+<div align="center">
+
+  <h3>🐋 My GitHub Ocean</h3>
+
+  <a href="https://github.com/Hamza-Reda-Alashmawi/Hamza-Reda-Alashmawi/blob/main/README.md">
+    <img
+      src="https://raw.githubusercontent.com/Hamza-Reda-Alashmawi/Hamza-Reda-Alashmawi/output/tulkun/tulkun.gif"
+      width="640"
+      alt="Hamza's GitHub Tulkun"
+    />
+  </a>
+
+  <br/>
+
+  <sub>Thanks for visiting my profile! 🚀</sub>
+
+</div>
